@@ -1,2 +1,2 @@
 # Linear_vs_Nonlinear_Pendulum
-Comparative analysis of linearized and nonlinear pendulum models highlighting small-angle approximation limits
+Linear vs nonlinear pendulum comparison + damping estimation via logarithmic decrement (MATLAB/Simulink)
